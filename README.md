@@ -1,1 +1,1 @@
-# temperature-converter
+This is a simple Flask application that convert temperature from Celsius to Fahrenheit.
