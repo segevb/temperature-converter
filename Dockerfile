@@ -1,5 +1,4 @@
 FROM python:3.8
-MAINTAINER segev91.b@gmail.com
 USER root
 EXPOSE 8080
 COPY * /
